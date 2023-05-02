@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>94f04abc464cd4deb8a0d6295e212110</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T03:37:41+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>582247bece06c442b8746f4200cc7c12</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T03:37:41+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>462ab0a3ba6a14f01aea0c5ef7994299</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T03:37:41+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf7beefa285e84abaab9a3e188cf0cac</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T03:37:41+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f062b2937bccc423fb18ee8d889f105a</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T03:37:41+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6295d2e52143f4a70904123c703923c9</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T03:37:41+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a947558ba421a48f2a92744e9f641b37</guid>
+    <fileName>Assets/CreatePath/FollowPath.cs</fileName>
+    <timeStamp>2023-03-26T19:11:25.2677068+01:00</timeStamp>
+    <typeFullName>
+      <string>FollowPath</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab1271b40ee524e45974cda292c9b8a2</guid>
+    <fileName>Assets/Scripts/chair.cs</fileName>
+    <timeStamp>2023-03-27T15:48:28.2690344+01:00</timeStamp>
+    <typeFullName>
+      <string>chair</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75a59755b610d49c1a68c5be9059418d</guid>
+    <fileName>Assets/Scripts/dialogue.cs</fileName>
+    <timeStamp>2023-05-01T17:02:59.5943331+01:00</timeStamp>
+    <typeFullName>
+      <string>dialogue</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ee95eb9a5e3d4ea0b4364fe0def8e96</guid>
+    <fileName>Assets/Scripts/footsteps.cs</fileName>
+    <timeStamp>2023-03-28T18:24:36.6574418+01:00</timeStamp>
+    <typeFullName>
+      <string>footsteps</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>971eb64b11b624f65aa7dec1559d8982</guid>
+    <fileName>Assets/Scripts/inc.cs</fileName>
+    <timeStamp>2023-03-28T11:36:19.0951227+01:00</timeStamp>
+    <typeFullName>
+      <string>inc</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d4946e317480846f7bd1c42e12eeb4ca</guid>
+    <fileName>Assets/Scripts/inclevel.cs</fileName>
+    <timeStamp>2023-03-28T12:14:19.2003514+01:00</timeStamp>
+    <typeFullName>
+      <string>inclevel</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>30be9d9bbc1ec4f98b56582348966c72</guid>
+    <fileName>Assets/Scripts/startGame.cs</fileName>
+    <timeStamp>2023-04-22T14:57:24.6651128+01:00</timeStamp>
+    <typeFullName>
+      <string>startGame</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c6a6df342b52d24092cf6bbb590c535</guid>
+    <fileName>Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs</fileName>
+    <timeStamp>2017-12-20T16:28:50+00:00</timeStamp>
+    <typeFullName>
+      <string>LowPolyWater.LowPolyWater</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d90ba6530d9bfda47abb4610956b2f44</guid>
+    <fileName>Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs</fileName>
+    <timeStamp>2021-04-09T23:39:03+01:00</timeStamp>
+    <typeFullName>
+      <string>FirstPersonController</string>
+      <string>FirstPersonControllerEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6fe99e92f179e48498503818d15ac6aa</guid>
+    <fileName>Assets/LowPolyWater_Pack/Scripts/Editor/GeneratePlane.cs</fileName>
+    <timeStamp>2017-12-20T16:28:59+00:00</timeStamp>
+    <typeFullName>
+      <string>LowPolyWater.GeneratePlane</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45d81a20743ff42a3b0dfbd499d4797e</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Editor/PathEditor.cs</fileName>
+    <timeStamp>2019-06-25T15:57:00+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f417e74782fffcd40b77b0fdbe82af04</guid>
+    <fileName>Assets/CreatePath/PathCreator/Examples/Scripts/GeneratePathExample.cs</fileName>
+    <timeStamp>2019-06-25T15:57:40+01:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.GeneratePathExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>33aabe1a2dec93349b06e6e5dc51bc06</guid>
+    <fileName>Assets/CreatePath/PathCreator/Examples/Scripts/PathFollower.cs</fileName>
+    <timeStamp>2019-06-25T15:56:57+01:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathFollower</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d12b1fe1b42884d7692049d7f6f79ee9</guid>
+    <fileName>Assets/CreatePath/PathCreator/Examples/Scripts/PathPlacer.cs</fileName>
+    <timeStamp>2019-06-25T15:57:36+01:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathPlacer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83aca5399f4e71c44b5d6c1314b5b95f</guid>
+    <fileName>Assets/CreatePath/PathCreator/Examples/Scripts/PathSceneTool.cs</fileName>
+    <timeStamp>2019-06-25T15:57:09+01:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathSceneTool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b617cc208d0104cad9534d503ff3e1cf</guid>
+    <fileName>Assets/CreatePath/PathCreator/Examples/Scripts/PathSpawner.cs</fileName>
+    <timeStamp>2019-06-25T15:57:28+01:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b275c3b78f8717c4cbc60f74a3247f67</guid>
+    <fileName>Assets/CreatePath/PathCreator/Examples/Scripts/RoadMeshCreator.cs</fileName>
+    <timeStamp>2019-06-25T15:57:22+01:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.RoadMeshCreator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c5b0a51c2af472488b193771f362ef3</guid>
+    <fileName>Assets/Ouroboros/Stylized Textures - Mini Set/Demo/Sources/Rotator.cs</fileName>
+    <timeStamp>2022-03-21T18:24:50+00:00</timeStamp>
+    <typeFullName>
+      <string>Ouroboros.Rotator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd0de63ca5c52504a8d2063418a326c3</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Editor/Helper/MouseUtility.cs</fileName>
+    <timeStamp>2019-06-25T15:57:28+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>804ddb43548540a4ca3b0a534a75c4b3</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Editor/Helper/PathHandle.cs</fileName>
+    <timeStamp>2019-06-25T15:57:09+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>05aed72a972059e45a62e31c2bb60fc4</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Editor/Helper/ScreenSpacePolyLine.cs</fileName>
+    <timeStamp>2019-06-25T15:56:53+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>756209f371f304fb1920c53a8a25a5e2</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/BezierPath.cs</fileName>
+    <timeStamp>2019-06-25T15:57:06+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0d7fa70c03166e4180909b6e5d546c7</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/EndOfPathInstruction.cs</fileName>
+    <timeStamp>2019-06-25T15:57:30+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46d5e8d803e252f4499b52e657f8e1a2</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/GlobalDisplaySettings.cs</fileName>
+    <timeStamp>2019-06-25T15:57:00+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>194e1b7893dcbf940a71eb507d8b10f3</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/MinMax3D.cs</fileName>
+    <timeStamp>2019-06-25T15:56:53+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8e5ac92bc18f545cc84cd886ece82b4d</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/PathCreator.cs</fileName>
+    <timeStamp>2019-06-25T15:57:13+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19547029ffb83484e90d00c182104817</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/PathCreatorData.cs</fileName>
+    <timeStamp>2019-06-25T15:56:54+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>407af8f85a5bae449bce4730c5d97d1a</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/PathSpace.cs</fileName>
+    <timeStamp>2019-06-25T15:56:58+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>223183313f20d4049a397d83fab3151e</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Objects/VertexPath.cs</fileName>
+    <timeStamp>2019-06-25T15:56:54+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c66a6536bb2d641558729d6da1ec7594</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Utility/CubicBezierUtility.cs</fileName>
+    <timeStamp>2019-06-25T15:57:35+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>096bae1d1ed960d4bb7605dce06767c1</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Utility/MathUtility.cs</fileName>
+    <timeStamp>2019-06-25T15:56:53+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5505526f3c472e8499fa7ce169410ace</guid>
+    <fileName>Assets/CreatePath/PathCreator/Core/Runtime/Utility/VertexPathUtility.cs</fileName>
+    <timeStamp>2019-06-25T15:57:01+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>db8aedf6f6cf2734cb24c49646427e96</guid>
+    <fileName>Assets/CreatePath/PathCreator/Examples/Scripts/Editor/PathSceneToolEditor.cs</fileName>
+    <timeStamp>2019-06-25T15:57:37+01:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathSceneToolEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
